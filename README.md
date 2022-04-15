@@ -1,4 +1,4 @@
-# Ejercicio 1 - Demoblaze CPA
+# Demoblaze CPA
 
 
 Este CPA fue creado utilizando Serenity BDD, Cucumber y Java. 
